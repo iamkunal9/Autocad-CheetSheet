@@ -4,16 +4,18 @@ Autocad Cheat Sheet
 
 Relative Polar Co-ordinate Method
 
-Formula
+##Formula
 @Distance<Angle Enter
-
+###Example
 1st point mouse click
 @10<0
 @10<120
-@10<240        this 3 makes a triangle
+@10<240        
+This 3 makes a triangle
 
 
-### un ## command to open the unit windows 
+### un ## command to open the set unit windows 
+### We basically use millimeter for the unit
 
 
 
@@ -22,10 +24,11 @@ Formula
 
 
 
+##shortcuts:
 
+l enter : Create line
 
-
-shortcuts:
+c enter : create circle
 
 v enter = show the view box
 
